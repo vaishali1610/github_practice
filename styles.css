@@ -4,4 +4,6 @@
 body {
     background-color: aquamarine;
     color: brown;
+    width: 100%;
+    height: 100%;
 }
