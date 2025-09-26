@@ -1,0 +1,44 @@
+From df422d9c192d07ce8b6e7035be23108c318b17d0 Mon Sep 17 00:00:00 2001
+From: vaishali1610 <vaishali.balasubramaniam@psiog.com>
+Date: Thu, 25 Sep 2025 10:40:24 +0530
+Subject: [PATCH 1/2] revert demo
+
+---
+ dummy.html | 11 +++++++++++
+ index.html |  1 +
+ 2 files changed, 12 insertions(+)
+ create mode 100644 dummy.html
+
+diff --git a/dummy.html b/dummy.html
+new file mode 100644
+index 0000000..d01f779
+--- /dev/null
++++ b/dummy.html
+@@ -0,0 +1,11 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="UTF-8">
++    <meta name="viewport" content="width=device-width, initial-scale=1.0">
++    <title>Document</title>
++</head>
++<body>
++    
++</body>
++</html>
+\ No newline at end of file
+diff --git a/index.html b/index.html
+index b5f6f53..f6ca7a2 100644
+--- a/index.html
++++ b/index.html
+@@ -6,6 +6,7 @@
+     <title>Document</title>
+ </head>
+ <body>
++    <p>this content is not needed</p>
+     <h1>hi</h1>
+     <h2>okayyyyyyyy</h2>
+     <h1>branch 2</h1>
+-- 
+2.50.1.windows.1
+
