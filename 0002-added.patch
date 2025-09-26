@@ -1,0 +1,23 @@
+From 0a1a9001b5ee938cf5d323b764c4e28594d4fb2a Mon Sep 17 00:00:00 2001
+From: vaishali1610 <vaishali.balasubramaniam@psiog.com>
+Date: Thu, 25 Sep 2025 16:50:41 +0530
+Subject: [PATCH 2/2] added
+
+---
+ index.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/index.html b/index.html
+index f6ca7a2..68a513f 100644
+--- a/index.html
++++ b/index.html
+@@ -12,5 +12,6 @@
+     <h1>branch 2</h1>
+     <p>merge demo</p>
+     <p>bye</p>
++    <p>cherry pick demo</p>
+ </body>
+ </html>
+-- 
+2.50.1.windows.1
+
